@@ -26,8 +26,8 @@ Website ini dirancang dengan gaya UI futuristik gelap (dark-neon theme), respons
 - Worker dapat melakukan pemrosesan order dari pengguna dengan mudah 
 - Sementara Admin mendapatkan akses penuh untuk mengatur data produk, komponen, pengguna, dan pengelolaan pesanan
 
-## 🔥 Fitur Utama
-### 👤 User Features
+## Fitur Utama
+### User Features
 - Registrasi & Login pengguna  
 - Dashboard pengguna  
 - Riwayat transaksi lengkap  
@@ -36,14 +36,14 @@ Website ini dirancang dengan gaya UI futuristik gelap (dark-neon theme), respons
 - Melihat detail dan spesifikasi lengkap  
 - Melakukan pemesanan 
 
-### 🛠️ Admin Features
+### Admin Features
 - Dashboard admin
 - CRUD Produk Laptop
 - Manajemen pesanan pengguna
 - Menambah karyawan
 - Manajemen kategori laptop
 
-### 🛡️ Worker
+### Worker
 - Manajemen pesanan pengguna
 
 ## Dokumentasi (Screenshots)
