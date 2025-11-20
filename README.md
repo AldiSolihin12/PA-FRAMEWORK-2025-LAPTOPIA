@@ -1,5 +1,6 @@
 # PA-Framework-Laptopia
 2209106012 - Aldi Solihin
+
 ![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/Laptopia.png?raw=true)
 
 Laptopia adalah platform website modern untuk pencarian laptop, pengelolaan komponen, manajemen pesanan, hingga transaksi produk.
@@ -58,7 +59,7 @@ Website ini dirancang dengan gaya UI futuristik gelap (dark-neon theme), respons
 ![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/register.png?raw=true) 
 
 ### Katalog Produk   
-![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/catalogue?raw=true)  
+![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/catalogue.png?raw=true)  
 
 ### Wishlist  
 ![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/wishlist.png?raw=true)
