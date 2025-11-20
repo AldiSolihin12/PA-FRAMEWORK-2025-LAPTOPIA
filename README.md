@@ -1,7 +1,26 @@
 # PA-Framework-Laptopia
 2209106012 - Aldi Solihin
 
-![alt text](https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/blob/main/ss-laptopia/Laptopia.png?raw=true)
+<div align="center">
+</div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA.git">
+    <img src="ss-laptopia\Laptopia.png" alt="Logo" width="100%" >
+  </a>
+
+  <h3 align="center">Website Toko Komputer Laptopia</h3>
+
+  <p align="center">
+    Project Akhir Praktikum Framework Based Programming
+    <br />
+    <a href="https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/issues/new?labels=bug">Report Bug</a>
+    ·
+    <a href="https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA/issues/new?labels=enhancement">Request Feature</a>
+  </p>
+</div>
 
 Laptopia adalah platform website modern untuk pencarian laptop, pengelolaan komponen, manajemen pesanan, hingga transaksi produk.
 Dibangun menggunakan Laravel, TailwindCSS, dan sistem panel admin canggih untuk mempermudah proses manajemen toko.
