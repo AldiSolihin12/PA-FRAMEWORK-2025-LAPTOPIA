@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AldiSolihin12/PA-FRAMEWORK-2025-LAPTOPIA.git">
-    <img src="ss-laptopia\Laptopia.png" alt="Logo" width="100%" >
+    <img src="ss-laptopia\Laptopia.png" alt="Logo" width="50%" >
   </a>
 
   <h3 align="center">Website Toko Komputer Laptopia</h3>
